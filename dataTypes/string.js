@@ -23,3 +23,5 @@ let b = '16';
 let string2 = a + b;
 
 console.log(string2);
+
+alert('GitHub');
