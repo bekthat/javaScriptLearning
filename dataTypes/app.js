@@ -14,3 +14,5 @@ user = {
 
 console.table(user);
 
+console.clear();
+
